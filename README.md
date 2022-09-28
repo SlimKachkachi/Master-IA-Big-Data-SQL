@@ -1,2 +1,2 @@
-# Master-IA-Big-Data-SQL
+# Master-IA-Big-Data-Dauphine-SQL
 Projet SQL
